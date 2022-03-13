@@ -1,4 +1,4 @@
-var two  = document.querySelectorAll(".col");
+var two  = document.querySelectorAll(".col-1");
 
 two.forEach(elemanlar =>{
     let number1 = Math.floor(Math.random() * 256)
