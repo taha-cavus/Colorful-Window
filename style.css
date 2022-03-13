@@ -4,5 +4,14 @@
 }
 
 .btn-dark{
-    
+    height: 52.8px;
+    width: 300px;
+    margin-top: 3px;
+    border-radius: 20px;
+    font-size: 30px;
+    font-weight: bolder;
+    letter-spacing: 10px;
+}
+.col-2{
+    background-color: black;
 }
